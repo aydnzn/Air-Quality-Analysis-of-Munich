@@ -5,7 +5,7 @@
 
 This repository contains my contribution to a group project for the course "Environmental Sensing and Modeling". The course was offered in the Summer semester of 2021, organized by the Associate Professorship of Environmental Sensing and Modeling (Prof. Chen), Technical University of Munich. We analyzed the air quality data of Munich by using various sensing methodologies, data analysis techniques, and atmospheric modeling methods taught during the course.
 
-For comprehensive course information, please refer to the [official course page](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950490959?$ctx=design=ca;lang=en&$scrollTo=toc_overview).
+For comprehensive course information, please refer to the [official course page](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950573432?$ctx=design=ca;lang=en&$scrollTo=toc_overview).
 
 **Note**: This repository is for educational purposes only and is intended to showcase my personal journey and learning throughout the course. Please utilize this material responsibly, respecting the principles of academic integrity and copyright rules.
 
